@@ -1,4 +1,5 @@
 #!/bin/bash
+# This script assume you have docker and docker compose plugins installed
 
 # Define the directory to store the docker-compose file
 DIR="/root/palworld"
